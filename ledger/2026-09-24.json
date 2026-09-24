@@ -1,0 +1,794 @@
+{
+  "format": "tropos-ledger@1",
+  "date": "2026-09-24",
+  "previous_digest_sha256": "e3f51b6425f4626054a9e7d054c1e0ca2814dba799cb52782f435063141a3d71",
+  "previous_date": "2026-09-23",
+  "count": 196,
+  "entries": [
+    {
+      "created_at": "2026-05-04T02:13:34.531+00:00",
+      "commitment_hash": "80925ff3e93d92c78ec7408dcafa0c8755f786f70e81826369663aab5be74d90"
+    },
+    {
+      "created_at": "2026-05-04T02:16:57.883+00:00",
+      "commitment_hash": "4205b59c29cd78b0a7c2598cf3bea199d7a7c62caf9a3fbcec4385ac97dce7df"
+    },
+    {
+      "created_at": "2026-07-31T15:31:21.737851+00:00",
+      "commitment_hash": "356acbddffac164be7243210264687fdf3b26078d007701a71562cd9476e0abc"
+    },
+    {
+      "created_at": "2026-07-31T15:31:21.737851+00:00",
+      "commitment_hash": "8ab19d817c64b12b551942a40eef92259987b51e1a1a2b1442cfc78fa0826bd6"
+    },
+    {
+      "created_at": "2026-07-31T21:02:04.330542+00:00",
+      "commitment_hash": "3be018cd115a6a09efbe5518c206b1bf1ef4324b7f0eeb96ad3c1448b935984d"
+    },
+    {
+      "created_at": "2026-07-31T21:02:04.330542+00:00",
+      "commitment_hash": "e3786d596d6bb9a5b525a3112a6ec7d5ef91519d0339a637892c31a1c0fc1817"
+    },
+    {
+      "created_at": "2026-07-31T21:02:04.330542+00:00",
+      "commitment_hash": "fa4d5753930ab8e4b48881dcdbf20da5b531d9b0852eef1eed370dfdab813b08"
+    },
+    {
+      "created_at": "2026-08-01T09:01:49.302236+00:00",
+      "commitment_hash": "40015d707d5491b7f7d3064d28ce493a0520c579ae112078dda9e306a9e44eb0"
+    },
+    {
+      "created_at": "2026-08-01T09:01:49.302236+00:00",
+      "commitment_hash": "6ba1cb472198430854cb4f5b4bc870bf6e7fb9e9ca7f2e25635e85a56ac8173c"
+    },
+    {
+      "created_at": "2026-08-01T21:01:39.418928+00:00",
+      "commitment_hash": "056dfc193f25a5f4455077ef3ffd83a89bef18eacf76b2237a801d36e2ddd169"
+    },
+    {
+      "created_at": "2026-08-01T21:01:39.418928+00:00",
+      "commitment_hash": "d605ed4a2f8ec72c8634fc4ac415f4942f8d7469bc447c648a96044de6c4f598"
+    },
+    {
+      "created_at": "2026-08-02T09:01:56.831111+00:00",
+      "commitment_hash": "5d6f13077923555c7e0aaf58572694d6e1c0f567fec374f66b2f56fc391b66b2"
+    },
+    {
+      "created_at": "2026-08-02T09:01:56.831111+00:00",
+      "commitment_hash": "cbfb0fd3b2ddc3890f79ed47585e99fc8d44aaf2cd9efa8838290ba00cbd2d4a"
+    },
+    {
+      "created_at": "2026-08-02T21:01:48.883803+00:00",
+      "commitment_hash": "5588543c977c8f6a170cbc82b856fa9d1e2c69cf23f0493d7c4056ee559e7994"
+    },
+    {
+      "created_at": "2026-08-02T21:01:48.883803+00:00",
+      "commitment_hash": "bf9a829e14a18dc780cea9b12f5022497afe8f0b32901f25225405c04b7faf40"
+    },
+    {
+      "created_at": "2026-08-03T03:58:50.799918+00:00",
+      "commitment_hash": "b0aaab45abb3c601d8f99649276a14fcb1d6f52028a26d4b8a4e11afd6579830"
+    },
+    {
+      "created_at": "2026-08-03T03:58:50.799918+00:00",
+      "commitment_hash": "b1c0cdf2664a56e0b40824044ecee233f2bce30fea978b6a893e8f879cc13506"
+    },
+    {
+      "created_at": "2026-08-03T04:02:35.530464+00:00",
+      "commitment_hash": "31476462cef5ed922cabb5c995e29acbd535c0a94027d19bbc4f83ee07ebabeb"
+    },
+    {
+      "created_at": "2026-08-03T04:02:35.530464+00:00",
+      "commitment_hash": "408ebd15e02e9c19980fa68b40e7ee853b32d9345cf1979d661693854e11a29c"
+    },
+    {
+      "created_at": "2026-08-03T09:01:11.774135+00:00",
+      "commitment_hash": "a6267655ff6579ea70757186f4cd8f4d802d5305fc1d80b3f9e2e83c85bd9c30"
+    },
+    {
+      "created_at": "2026-08-03T21:02:14.776358+00:00",
+      "commitment_hash": "2a18ff76646750f270cb5bb60677c6cc054a0f6e9f0832c42ff0338dd3510fe0"
+    },
+    {
+      "created_at": "2026-08-03T21:02:14.776358+00:00",
+      "commitment_hash": "96c24abe8a74cd24e201d63c10b55161ae6c29c5b5b2b4855fc1d0bd2ffa1644"
+    },
+    {
+      "created_at": "2026-08-03T21:02:14.776358+00:00",
+      "commitment_hash": "e7aeecc0ec154b5288f64f510dbc6de3931e183269ffa8e8e94b75a358a70e32"
+    },
+    {
+      "created_at": "2026-08-04T09:00:59.724486+00:00",
+      "commitment_hash": "303af0b4f63dc827f1bbaa087c5ea30922922c3cf5de73e83b9cf82dd55ca79a"
+    },
+    {
+      "created_at": "2026-08-04T21:00:59.873898+00:00",
+      "commitment_hash": "7479967cc8a8bd1fc80532241e228b88ca7586c666310abbbb7cfda40fe9d55c"
+    },
+    {
+      "created_at": "2026-08-04T21:00:59.873898+00:00",
+      "commitment_hash": "e409039d95d254fc539757c8134771c3b898747c4de3ab5433ab15d80c7e5c1f"
+    },
+    {
+      "created_at": "2026-08-05T09:01:25.785821+00:00",
+      "commitment_hash": "bafcae5f4036ce8730ba5e9960934e876d77acccd94d1bde285562ab809cbf75"
+    },
+    {
+      "created_at": "2026-08-05T09:01:25.785821+00:00",
+      "commitment_hash": "e71b7b0764392f3fbc6cf29588e7a3b7635d68d332025f52b6f401f776514122"
+    },
+    {
+      "created_at": "2026-08-05T21:01:44.383819+00:00",
+      "commitment_hash": "a95a1e53757b8cfb5ca48e81ef68fcd1d8db228b375daa2f4576b0c558f93bba"
+    },
+    {
+      "created_at": "2026-08-06T09:03:53.131549+00:00",
+      "commitment_hash": "01364f3e83f7bac6bdc8a22f027314a85de2f3e1628db8262bbb45b8771f4295"
+    },
+    {
+      "created_at": "2026-08-06T21:00:56.766323+00:00",
+      "commitment_hash": "bd198028fffd309f53116106a9886d3083e92eb9c6ab0539ac6596eb3a86822e"
+    },
+    {
+      "created_at": "2026-08-06T21:00:56.766323+00:00",
+      "commitment_hash": "c3a8ecbdfac49029668d9447131cb3e18399a9891bd191bf755eb9e9f265dac6"
+    },
+    {
+      "created_at": "2026-08-07T09:02:26.442806+00:00",
+      "commitment_hash": "2ca7ddbe00d9183d0f9aeb10006b2610920f806a5e4f8235bb4c0e1d1962b66f"
+    },
+    {
+      "created_at": "2026-08-07T09:02:26.442806+00:00",
+      "commitment_hash": "b2cdf73ee3b5165a408ccdc8e033899daff90a055f0a91a6b6988eecefb2d4f9"
+    },
+    {
+      "created_at": "2026-08-11T09:02:28.210455+00:00",
+      "commitment_hash": "a0a38968e3ffad51f08dc735a415c744316e42edc382709e629ef221dd6a17a3"
+    },
+    {
+      "created_at": "2026-08-11T21:01:37.998285+00:00",
+      "commitment_hash": "e3f0a890d2693ccb716ae255ad30bc5c1b9dfadb438086e70a25c0764d11e4ff"
+    },
+    {
+      "created_at": "2026-08-12T21:02:23.990087+00:00",
+      "commitment_hash": "346f0fa15681687f7d889d32cef9be3dd80955a305aed586b3fd845fe23f82e9"
+    },
+    {
+      "created_at": "2026-08-13T09:02:31.395976+00:00",
+      "commitment_hash": "443a54d975bdc44f29f00aafe78b126ee0a2bd706b5355871808e1827c136ac4"
+    },
+    {
+      "created_at": "2026-08-13T09:02:31.395976+00:00",
+      "commitment_hash": "eb5041e0797bd14b43c3cefcd466bb6170d1cd56634851fd4573f42211d73ab0"
+    },
+    {
+      "created_at": "2026-08-13T21:01:52.172961+00:00",
+      "commitment_hash": "95bb5e46bcf2a902ff717f491c27b7234e94fb7854c3d434e4433cb0f58a85a5"
+    },
+    {
+      "created_at": "2026-08-14T09:04:55.176959+00:00",
+      "commitment_hash": "39df8ecfd7315bf5fd0722855baf17bcfaf3b45da374d45ea94107305a4b4974"
+    },
+    {
+      "created_at": "2026-08-14T21:01:19.268987+00:00",
+      "commitment_hash": "878559bdd3d26097adcfc2bb39291ae241f6405777f5c6d07c89071d39e7645f"
+    },
+    {
+      "created_at": "2026-08-14T21:01:19.268987+00:00",
+      "commitment_hash": "f94901c326197d465f6f94f143955458202df7dbec968d6ce4a226e5daa522c2"
+    },
+    {
+      "created_at": "2026-08-15T09:01:57.560905+00:00",
+      "commitment_hash": "a1ea2d8f2e18d24094286bf6e4c8b6c2967ae633445bae84b6c1e52f7d89efbd"
+    },
+    {
+      "created_at": "2026-08-15T09:01:57.560905+00:00",
+      "commitment_hash": "a7c1357053d685f1fda5800c7b123c9560a4bafdbbaab31495e65bcb08d24a71"
+    },
+    {
+      "created_at": "2026-08-15T21:00:55.701106+00:00",
+      "commitment_hash": "0b4e9b65302dbd625a8afdd9d16354381a872d9d4e5c0d4d5e11560343fc1e52"
+    },
+    {
+      "created_at": "2026-08-16T21:02:30.862844+00:00",
+      "commitment_hash": "7bcd95ab4c86e78e4507e3a3c02b7230f16154a40b51d1a4e94c41a640192491"
+    },
+    {
+      "created_at": "2026-08-16T21:02:30.862844+00:00",
+      "commitment_hash": "7c94bed7b5d6e7e8b7c2a09dd48f9a3f7f6ff72d55ede5987feb21fff099d5ed"
+    },
+    {
+      "created_at": "2026-08-16T21:02:30.862844+00:00",
+      "commitment_hash": "887edc1264ee63142bff2a0d3f58cac34a2f9a8f95feca837c5af8af26dba964"
+    },
+    {
+      "created_at": "2026-08-17T09:02:24.543463+00:00",
+      "commitment_hash": "0a6a3f400b101015ff9e0b1de7a8a39f33cbfe283f86fc30cbcd881c587f73b8"
+    },
+    {
+      "created_at": "2026-08-17T09:02:24.543463+00:00",
+      "commitment_hash": "963822094961f462cf9a7ad2441530b616c7b0e8babb79a233a6ae5da0cf78a3"
+    },
+    {
+      "created_at": "2026-08-17T21:01:33.771808+00:00",
+      "commitment_hash": "385bd0dc5c1cfeabb97625c9ba048da38ac7786c956eefe491b1ddf45c9237d8"
+    },
+    {
+      "created_at": "2026-08-17T21:01:33.771808+00:00",
+      "commitment_hash": "8d4621caf06ae16eb27df7f86ad358876ad4e7ded5d1de84ec5a9be8dce7db12"
+    },
+    {
+      "created_at": "2026-08-18T09:02:02.322979+00:00",
+      "commitment_hash": "215466b785497ec8a297acc66d06da38eb59b762971068d893b8797bf1da2016"
+    },
+    {
+      "created_at": "2026-08-18T21:01:36.621562+00:00",
+      "commitment_hash": "9c8453a2482782debad5a07ee71fa58ae92c77ebf45d68b97f37896f1c0e05c7"
+    },
+    {
+      "created_at": "2026-08-18T21:01:36.621562+00:00",
+      "commitment_hash": "eece914320f5e34b5f1b6b68317125eae791cae0a982c39e0ab25ccb1af6a127"
+    },
+    {
+      "created_at": "2026-08-19T09:01:11.411585+00:00",
+      "commitment_hash": "bc690e70738bb0b37919d31d8239d903019c516b5e00cd3c27bc27e9b5cd2bb1"
+    },
+    {
+      "created_at": "2026-08-19T09:01:11.411585+00:00",
+      "commitment_hash": "d59bc8136b62a416c59b15565e644c3d02b83e8088ea83b1704836f0340ce512"
+    },
+    {
+      "created_at": "2026-08-19T09:01:11.411585+00:00",
+      "commitment_hash": "ec87ebbb7312ac896a9f2dd2c603cacb6ee1444279815db3f2b233d29f86cf43"
+    },
+    {
+      "created_at": "2026-08-19T21:01:25.82925+00:00",
+      "commitment_hash": "278700feb11a51a38d9b913d2746818288ea6dabae58b16e68312717b10297e9"
+    },
+    {
+      "created_at": "2026-08-20T09:01:36.268706+00:00",
+      "commitment_hash": "77f8333fe0a4a978c99f73fcdee198fefe7ae154a469e1d5e9f46eb697d886f1"
+    },
+    {
+      "created_at": "2026-08-20T21:01:52.113415+00:00",
+      "commitment_hash": "0c2ca6016e98081fefa0113c57ad64eed3c6b00bf5996fd46fe770f8b4fd0012"
+    },
+    {
+      "created_at": "2026-08-20T21:01:52.113415+00:00",
+      "commitment_hash": "bf57f5f5e5786917b4f0eb9fc0e310a8c92156b899f5dbab9365bd3c9ed3bc62"
+    },
+    {
+      "created_at": "2026-08-21T09:01:53.435674+00:00",
+      "commitment_hash": "155afcdeafffecf9bb26c783caa6e6fd104809ae99ebceafb120b8866d7b7c88"
+    },
+    {
+      "created_at": "2026-08-21T09:01:53.435674+00:00",
+      "commitment_hash": "25d7f6fe6e76fb4f5a260100182f84aa7b2476753022f573aece1b90b9e39b9e"
+    },
+    {
+      "created_at": "2026-08-21T21:02:37.96656+00:00",
+      "commitment_hash": "9bc24f6e52523cfd258fae73340db2921c8745f9615e422fae88b919c3d269f2"
+    },
+    {
+      "created_at": "2026-08-21T21:02:37.96656+00:00",
+      "commitment_hash": "9d850e4cc61169d410aef92f9d393cbb563855b96f6dbacde6bbcef8b94f2982"
+    },
+    {
+      "created_at": "2026-08-22T09:01:35.910117+00:00",
+      "commitment_hash": "0681bd53393b86c78e97fc8b5fa0a6bb9b1dfe1e36995e8efa461233e56489d2"
+    },
+    {
+      "created_at": "2026-08-22T21:01:26.694344+00:00",
+      "commitment_hash": "08fb84e921c922e3879ce09978af80fc31699bc42e804a6d578421158747068c"
+    },
+    {
+      "created_at": "2026-08-22T21:01:26.694344+00:00",
+      "commitment_hash": "f7501d987d321751f42bd255e36d349984efb8a82bf02902c98eb5d415fa96f1"
+    },
+    {
+      "created_at": "2026-08-23T09:01:25.338731+00:00",
+      "commitment_hash": "77c4116ce0bfdb0374d484415341c3724e5056541d3554950489babdf085d305"
+    },
+    {
+      "created_at": "2026-08-23T09:01:25.338731+00:00",
+      "commitment_hash": "9cae02d0144321c039c4f8a5940924e07eba8a332771f8e897e316a4c3ae8e95"
+    },
+    {
+      "created_at": "2026-08-24T21:01:15.263917+00:00",
+      "commitment_hash": "0019e371c6d34a6342addb11546ce7a8a258aa375510bb9bd34194d136826a70"
+    },
+    {
+      "created_at": "2026-08-24T21:01:15.263917+00:00",
+      "commitment_hash": "4c38df86cb79b3e629439b8d401970bf218bb04a880d0e4080ba638afd51c425"
+    },
+    {
+      "created_at": "2026-08-25T09:02:04.062214+00:00",
+      "commitment_hash": "39adf673b866029e2c5c39a5879ba7a2d66b9d5a975f29ac4a64fd3b345ce076"
+    },
+    {
+      "created_at": "2026-08-25T09:02:04.062214+00:00",
+      "commitment_hash": "826add5806b241ce8f0b3ccdb8d7b67ceab36439be51c21980b965b09ffa27c0"
+    },
+    {
+      "created_at": "2026-08-25T21:01:59.934151+00:00",
+      "commitment_hash": "6d9fa4f6356f0f52f33d550da1711befa33dc647954443384ac9618621b2b689"
+    },
+    {
+      "created_at": "2026-08-26T21:01:43.686151+00:00",
+      "commitment_hash": "0e741caa08da667626580b515a9f21573790cac62385e9093baee726ca56043a"
+    },
+    {
+      "created_at": "2026-08-26T21:01:43.686151+00:00",
+      "commitment_hash": "3c5c29d605bdd2db97df3eacbe7eb4940cef876f02bc440a81db9f5e811adbb4"
+    },
+    {
+      "created_at": "2026-08-27T09:01:53.676981+00:00",
+      "commitment_hash": "a75a65ae642394e8e7a3e81ea7bf5f24772fb071123bc09d8c7e6175188b3089"
+    },
+    {
+      "created_at": "2026-08-27T21:01:09.673454+00:00",
+      "commitment_hash": "1dcac0c33000f88734f9331880104dc2daeac833d523bd6f61988a6da5131152"
+    },
+    {
+      "created_at": "2026-08-28T09:01:20.339229+00:00",
+      "commitment_hash": "b364f6b60fe9f22b9e6914e7fd23c2accc7e2a7e39eed6b2744b03b6900e22a8"
+    },
+    {
+      "created_at": "2026-08-28T21:01:25.823701+00:00",
+      "commitment_hash": "116ef8e257ddf46469613b7b67d7cd203107071449270efb6ff37c60256d13cf"
+    },
+    {
+      "created_at": "2026-08-28T21:01:25.823701+00:00",
+      "commitment_hash": "7b2f08e1c9244c12fd692d83c54670b75a2c0232c110e05877f48486c2c6239c"
+    },
+    {
+      "created_at": "2026-08-29T09:01:57.475289+00:00",
+      "commitment_hash": "98d7338f5a0da655a14f0525b8c5952a1acffc24e9687f48aac455568ee29d0c"
+    },
+    {
+      "created_at": "2026-08-29T09:01:57.475289+00:00",
+      "commitment_hash": "d7c4829f41088875590fcab400a4abfe7485dcf710c6b0a4d98bdd6ab11193db"
+    },
+    {
+      "created_at": "2026-08-29T21:01:51.818412+00:00",
+      "commitment_hash": "697bec44ca5f391fee8024cf0ca4bd188b1bee83b6dda9fe188ce2b6fddbc56d"
+    },
+    {
+      "created_at": "2026-08-30T09:01:41.467453+00:00",
+      "commitment_hash": "c4985e6b373a5938155710ae93e58627f9a50a9826ca6d9f4d544a42085c2ba0"
+    },
+    {
+      "created_at": "2026-08-30T21:01:48.595403+00:00",
+      "commitment_hash": "86576945bd9aa906b18161b448a53fe2cbf2cfa1584ade544e518571710f1893"
+    },
+    {
+      "created_at": "2026-08-31T09:00:59.890226+00:00",
+      "commitment_hash": "12bcceb4a06d1e30f2d99ab0025ad1a0d486645d977a57cb9d5ec3e5daddd3e3"
+    },
+    {
+      "created_at": "2026-08-31T21:03:46.308561+00:00",
+      "commitment_hash": "4b8afd2de77dffec59cfc6827e953a37a54fab566ed049aab6b018ed41ded595"
+    },
+    {
+      "created_at": "2026-08-31T21:03:46.308561+00:00",
+      "commitment_hash": "d0e92d92d6db909747c8d77ff1fa5f5554a5a053d95bf9a5295d27641dc3cd22"
+    },
+    {
+      "created_at": "2026-09-01T09:02:06.171474+00:00",
+      "commitment_hash": "0b0558361d5820cda3beb7b60b97a4ba9a4bb58f9fbf8dc88a38785ae8b5f364"
+    },
+    {
+      "created_at": "2026-09-01T09:02:06.171474+00:00",
+      "commitment_hash": "8c2cb163b7528df6e61b1c456fa742328997843355325f5bed178bbfd252485e"
+    },
+    {
+      "created_at": "2026-09-01T21:00:50.964117+00:00",
+      "commitment_hash": "5a6c1a69e39e561784d7eafe62c28655c8b1a627eb8be307f086d9487997d8b7"
+    },
+    {
+      "created_at": "2026-09-01T21:00:50.964117+00:00",
+      "commitment_hash": "661eef4000356af1e04987e8365d8043d7b94d786f5f354c3c2bcbfe64abb25e"
+    },
+    {
+      "created_at": "2026-09-02T09:00:53.538552+00:00",
+      "commitment_hash": "6be21beb2485669bd2aaf03688f5cb7c4351f6c3b50be8f44c0005e60bbca16f"
+    },
+    {
+      "created_at": "2026-09-02T09:00:53.538552+00:00",
+      "commitment_hash": "c91fdf5979ba7bec507fd709b3ac0428644009cfff0cc124ec4c10383bec8fa4"
+    },
+    {
+      "created_at": "2026-09-02T21:03:38.14454+00:00",
+      "commitment_hash": "eb2b32a751ce868aad132660c710d15251adba4d6208c5e142e8e1a47a91def3"
+    },
+    {
+      "created_at": "2026-09-03T09:03:19.281197+00:00",
+      "commitment_hash": "bfc1f10d8eef66b7a26d1b720314da625f3d918f1072007838e57e0b89692566"
+    },
+    {
+      "created_at": "2026-09-03T21:01:47.057969+00:00",
+      "commitment_hash": "1892ed7c698db44ceb944a3828888d8a88072cd58a994c07c6cc2e59878ec641"
+    },
+    {
+      "created_at": "2026-09-03T21:01:47.057969+00:00",
+      "commitment_hash": "fdc3de0c1da25ecc83c8db979cecf6fedc8e14824cf6946224f9a8cb10ce5863"
+    },
+    {
+      "created_at": "2026-09-04T09:01:51.110396+00:00",
+      "commitment_hash": "34f120749504b6c730cdeb3092233d31fab8deae491f53250420147eb15092e0"
+    },
+    {
+      "created_at": "2026-09-04T09:01:51.110396+00:00",
+      "commitment_hash": "a64e5469301d5c0ee59608456f7b529ab80b8f2e4f269613aa8684d5b4914e2a"
+    },
+    {
+      "created_at": "2026-09-04T21:01:53.84023+00:00",
+      "commitment_hash": "3d70bf1d2f552dfb1e3583766efda9e4eafe502e0b206d360bbe10794d63bfe0"
+    },
+    {
+      "created_at": "2026-09-05T09:00:42.694813+00:00",
+      "commitment_hash": "791d76cc86b8bb620bdc204c8f1e003108246a5a4c27397409942115350272e0"
+    },
+    {
+      "created_at": "2026-09-05T21:00:53.677303+00:00",
+      "commitment_hash": "d445a6f8a186486047d65dfbb58a87c2327495a2cb9152114aeb1d98f0123b58"
+    },
+    {
+      "created_at": "2026-09-05T21:00:53.677303+00:00",
+      "commitment_hash": "e38a8dbb7759f3659476f146e17f70a2167ca4308fc6052c74df0eecf1b6941e"
+    },
+    {
+      "created_at": "2026-09-06T09:00:53.792451+00:00",
+      "commitment_hash": "77e4a6517a7431c0d0099239ae2e3651d05ed0d39165c87fa62a44ea27326666"
+    },
+    {
+      "created_at": "2026-09-06T09:00:53.792451+00:00",
+      "commitment_hash": "89c72c098b06cd53b23c7c0bef4a0d8d629ead473baaecae821635ced53376e8"
+    },
+    {
+      "created_at": "2026-09-06T21:01:06.0045+00:00",
+      "commitment_hash": "6d8129f4f3b272a4677d5ef3cf9009fc73ff74dce884393efe3af62fef4327d3"
+    },
+    {
+      "created_at": "2026-09-07T09:00:53.86982+00:00",
+      "commitment_hash": "79bd07627474f66a5f69aa61836ffa8d81b754789a1792d698ea40fc0febc787"
+    },
+    {
+      "created_at": "2026-09-07T21:00:58.118425+00:00",
+      "commitment_hash": "c9bd9321c9513315a4f943f9441334f3113ebdc7156a64b229a3f532f798ec71"
+    },
+    {
+      "created_at": "2026-09-08T03:09:13.569527+00:00",
+      "commitment_hash": "b6417899a47d98c2245d4ea4bc1fbe5c4a1084962de45407880699f03a3e6150"
+    },
+    {
+      "created_at": "2026-09-08T09:01:14.479886+00:00",
+      "commitment_hash": "d39557cd4830399e00208553083ffd7ba7d7b3e20c34a6a7d271de32198aeb8c"
+    },
+    {
+      "created_at": "2026-09-08T21:00:58.570719+00:00",
+      "commitment_hash": "951687e6e4936fc31382df7beec439bafefc576964fb08aa43b45f9383677fff"
+    },
+    {
+      "created_at": "2026-09-09T09:01:06.320402+00:00",
+      "commitment_hash": "b4cc375bbf5bc693240bb22b296ec2575d079f0b6bedf94b392421ba4ca28ba4"
+    },
+    {
+      "created_at": "2026-09-09T09:01:56.339438+00:00",
+      "commitment_hash": "653a2086e9c284c19a6d81f6bb88806c4d3fb296a568d7066f82457068805594"
+    },
+    {
+      "created_at": "2026-09-09T21:01:12.55559+00:00",
+      "commitment_hash": "fa8b7e1a005ac21bb5f7797013697ab5d2e2f4e18f04a7f5425b0b358e04feb3"
+    },
+    {
+      "created_at": "2026-09-09T21:02:01.675882+00:00",
+      "commitment_hash": "4170c03c35b0429c194e918963c771b663212150474bfc1ac5506c9718a63db1"
+    },
+    {
+      "created_at": "2026-09-10T09:01:02.881563+00:00",
+      "commitment_hash": "4fb0989ea82e3100942620b8540d44e1c490c82448645146569a3445fa5e9cc1"
+    },
+    {
+      "created_at": "2026-09-10T09:01:52.169621+00:00",
+      "commitment_hash": "8693c07d3519bc43c95c2188e2fbd8bd8f1c47db5c0fc7de04984b0d95ae824b"
+    },
+    {
+      "created_at": "2026-09-10T21:01:33.031097+00:00",
+      "commitment_hash": "07bd62d70a04c6e6a58ddba830ce34e3687911eaea62f74a91c2a46e01be7cbb"
+    },
+    {
+      "created_at": "2026-09-10T21:01:33.031097+00:00",
+      "commitment_hash": "8b002f119588505b23d4c33eaec9b81df418cb853abfd6e2fc34ede82d9bb573"
+    },
+    {
+      "created_at": "2026-09-10T21:01:33.031097+00:00",
+      "commitment_hash": "d0f5ec0393fab9197cf2d2f47e2589dab9514ff614eab0241e3147ae675cbdef"
+    },
+    {
+      "created_at": "2026-09-11T09:01:23.920288+00:00",
+      "commitment_hash": "46bd6c6b0c506b9dd2658479f892655e66f618ff82d6a149068fb9ac7f4f139f"
+    },
+    {
+      "created_at": "2026-09-11T09:01:23.920288+00:00",
+      "commitment_hash": "ca2868b6d3665866ffd6067cf7accd9ef42e4390017bec244848f45b3ec33a8c"
+    },
+    {
+      "created_at": "2026-09-11T09:01:23.920288+00:00",
+      "commitment_hash": "d2e7576a9ce8fed453136083ce55de930078648ba232e7d6342c8da671cca760"
+    },
+    {
+      "created_at": "2026-09-11T21:01:23.933787+00:00",
+      "commitment_hash": "18fd372cea98e09798c4ca34fb4933524651ee1073038280da7a4739f4d73b2b"
+    },
+    {
+      "created_at": "2026-09-11T21:01:23.933787+00:00",
+      "commitment_hash": "8932e6f5b3af6aa404b8885dcecb8728532b7be3b34eed6f8efe291e3365aa66"
+    },
+    {
+      "created_at": "2026-09-11T21:01:23.933787+00:00",
+      "commitment_hash": "b6245b3f5519f98bd99fbed1a1754fe043529506c648ac9c57181a63ac2b6e0b"
+    },
+    {
+      "created_at": "2026-09-12T09:01:14.41227+00:00",
+      "commitment_hash": "64c10a29808f06b02c4e78460be0c3de54c05ff940e73e6dc5ec08b0ea77377f"
+    },
+    {
+      "created_at": "2026-09-12T09:01:14.41227+00:00",
+      "commitment_hash": "69a4f4ffd6c1d09cc57f90dcee60338ca085edfc77a481bd0b2b8edbd48dd375"
+    },
+    {
+      "created_at": "2026-09-12T21:01:30.464585+00:00",
+      "commitment_hash": "5ac9545fb5ecee0e56404a37f899db7769a6af7cd2017846408978a85f612c54"
+    },
+    {
+      "created_at": "2026-09-12T21:01:30.464585+00:00",
+      "commitment_hash": "dbae3ea0ccf837081dc56c29263cb9d859de063b766a2d97c75be8f3af2eed86"
+    },
+    {
+      "created_at": "2026-09-12T21:02:16.151278+00:00",
+      "commitment_hash": "bd957cdeb7a91644c2a695090456814b7b4bf275281b3da8e089cfe0148f481e"
+    },
+    {
+      "created_at": "2026-09-13T09:01:11.793136+00:00",
+      "commitment_hash": "a9593185e5d5ebb7a0fb9f3439be6d5200b387012a749e085321eb4cf276d9ba"
+    },
+    {
+      "created_at": "2026-09-13T09:01:11.793136+00:00",
+      "commitment_hash": "c0686e289a447e12ce8956178bdfa8376e359dfcaf13d590e6915501b9307573"
+    },
+    {
+      "created_at": "2026-09-13T09:01:58.111753+00:00",
+      "commitment_hash": "06b3888aedb738c93daf492be63e2a72bae479dce18ef2bd621a3e0f813c3a73"
+    },
+    {
+      "created_at": "2026-09-13T21:01:17.729626+00:00",
+      "commitment_hash": "f5966f435523a2affa4df64337f693bbe1996c3b0a1fca222a9177d611b42a90"
+    },
+    {
+      "created_at": "2026-09-13T21:02:10.679036+00:00",
+      "commitment_hash": "2e61b31a6ffd7bdd160719c8d259173c541e6ba0ca4d10a57eeee0e9f485a7fa"
+    },
+    {
+      "created_at": "2026-09-13T21:02:10.679036+00:00",
+      "commitment_hash": "d213b2e96886accbbb2c69cc3fb46b29b4f6600c711cdfbf9975f2fcaa9ea727"
+    },
+    {
+      "created_at": "2026-09-14T09:01:15.65722+00:00",
+      "commitment_hash": "7a2be0f2cb561ff8ad506a5faa0f9f89430806feaefc8a4e2e90516a3f2c8537"
+    },
+    {
+      "created_at": "2026-09-14T09:02:25.558227+00:00",
+      "commitment_hash": "692d45e7902876e331f4389d7a23c7f81a15b06b157d76d97dee57023f0285e7"
+    },
+    {
+      "created_at": "2026-09-14T09:02:25.558227+00:00",
+      "commitment_hash": "ce6a1e0fb828ef5a9bec133e8787a3a5a1bb0ff552996887d3d28aa5d70c40a7"
+    },
+    {
+      "created_at": "2026-09-14T21:01:22.527194+00:00",
+      "commitment_hash": "82d4db5aa0249d60dc5e8e5ae8bca7e4d64b87421d07dc2eb5761059222a14be"
+    },
+    {
+      "created_at": "2026-09-14T21:01:22.527194+00:00",
+      "commitment_hash": "93df28f65f0788cb50c6262228055ddc26a4ca5bb1acd6bc72c1023c11f6d1f0"
+    },
+    {
+      "created_at": "2026-09-14T21:01:22.527194+00:00",
+      "commitment_hash": "f81ece7f14d65154ab389980f4bd02e1507511d9a2e9a6031e556797fb203c05"
+    },
+    {
+      "created_at": "2026-09-14T21:02:24.253353+00:00",
+      "commitment_hash": "68b4b3a04b2acf97644419aeae3701dbee64ae3280f1699c7f42a907682ca65b"
+    },
+    {
+      "created_at": "2026-09-15T09:01:20.542988+00:00",
+      "commitment_hash": "e3da1c107108fb5fe5ed022e1341e04267c257b887642449a25010f25cf4b4f2"
+    },
+    {
+      "created_at": "2026-09-15T21:01:24.750603+00:00",
+      "commitment_hash": "3eb236095f57fa224787d8ed1d8c1703e7c20e7028b8116571ceabb9dcb0d6da"
+    },
+    {
+      "created_at": "2026-09-15T21:01:24.750603+00:00",
+      "commitment_hash": "7e731d7678d136b33da2562dabb055a0c811838abc847839da5327fdc99e5c0d"
+    },
+    {
+      "created_at": "2026-09-15T21:02:44.600609+00:00",
+      "commitment_hash": "39c3de1ae16821b32ea2b96542519dd78af82dda4c42cde180d71a62fe87e7f4"
+    },
+    {
+      "created_at": "2026-09-16T09:01:19.622633+00:00",
+      "commitment_hash": "85083d7f1b9b03965406c19c4e5f025f176a06a9de65212ec65a720c89b15f1c"
+    },
+    {
+      "created_at": "2026-09-16T09:01:19.622633+00:00",
+      "commitment_hash": "f0eb573dbe2ca5d2c883827b5b266b705ab127c5eb2986b86d4fb7c920b2bd3c"
+    },
+    {
+      "created_at": "2026-09-16T09:02:05.751991+00:00",
+      "commitment_hash": "e754c562966ae63609a3872762f8d423d390a5ef1c91124b2139e83207658916"
+    },
+    {
+      "created_at": "2026-09-16T21:01:41.102792+00:00",
+      "commitment_hash": "4e6913802a310bfc98a62f159e23dfeba5430edd981de12f0a973b69ef9f5620"
+    },
+    {
+      "created_at": "2026-09-16T21:01:41.102792+00:00",
+      "commitment_hash": "675f95a68ad02586b33b2afef6cd52a3b6967717c43362a328073e37fddd2ca3"
+    },
+    {
+      "created_at": "2026-09-16T21:02:37.271988+00:00",
+      "commitment_hash": "47251ef43033f35055dcd4149bcfc4a6bf008efb660623c032ee5f1ca03de71a"
+    },
+    {
+      "created_at": "2026-09-16T21:02:37.271988+00:00",
+      "commitment_hash": "9c0eb3c242df3ce6b07c0c18cc597c7fdb0f129b62164e8fde23b631ab29f243"
+    },
+    {
+      "created_at": "2026-09-17T09:01:10.877856+00:00",
+      "commitment_hash": "118dffcff0800ebe8687bfe6944052773b8e35b5d884647f3e0e6ba27f7e48f0"
+    },
+    {
+      "created_at": "2026-09-17T09:01:10.877856+00:00",
+      "commitment_hash": "c4b437fcfa7da19e7497d91438590f3de5d6c4b17a1670222fd2f4b2f831f8e2"
+    },
+    {
+      "created_at": "2026-09-17T09:02:06.398637+00:00",
+      "commitment_hash": "36b09592adcc8acad262f610d2dc5f71df52fcd2d17b3fb594a58bbd66d99ef9"
+    },
+    {
+      "created_at": "2026-09-17T09:02:06.398637+00:00",
+      "commitment_hash": "f8439e264d8cc9b565c4c51610e64d7647a8f74100ea0b6efdb89d1a239a3beb"
+    },
+    {
+      "created_at": "2026-09-17T21:01:55.099877+00:00",
+      "commitment_hash": "9cb7c7ff6cb1eea1cb0e0f2010e2b10582ab92b2dbfdb688f813d52174f2da03"
+    },
+    {
+      "created_at": "2026-09-17T21:01:55.099877+00:00",
+      "commitment_hash": "cb59a4a9386b76943e70c2ba7d1dd9736c0422dfe0d2793042e6af216dcf2719"
+    },
+    {
+      "created_at": "2026-09-18T09:01:42.455536+00:00",
+      "commitment_hash": "54184ff000f23a987d5b17b1efdfc28a6b5d587f9c93994f79055b025e367da4"
+    },
+    {
+      "created_at": "2026-09-18T09:01:42.455536+00:00",
+      "commitment_hash": "793857b6a1cb73ec101a930a902682030ae4c1a800a3cd4939332416a5e12e7b"
+    },
+    {
+      "created_at": "2026-09-18T21:01:01.543132+00:00",
+      "commitment_hash": "aeaa0b7faefdb51567b625bda423e351ae7e3c85914fa2eda4fe1f27fdbd70b8"
+    },
+    {
+      "created_at": "2026-09-18T21:01:56.828485+00:00",
+      "commitment_hash": "021d7c39b274bb4c3679f1168956223923c9538999a87eadb2845381c9725b66"
+    },
+    {
+      "created_at": "2026-09-19T09:00:45.172492+00:00",
+      "commitment_hash": "8660668050e3738ea298c21b7be726855aacb32a36355caf73f7384d8fcdcf6e"
+    },
+    {
+      "created_at": "2026-09-19T09:01:38.250054+00:00",
+      "commitment_hash": "3a45925e6974e3f0e666b07c73b89ca4103cec76c4cc2dd35ae820a041127421"
+    },
+    {
+      "created_at": "2026-09-19T21:01:45.769475+00:00",
+      "commitment_hash": "376aaa5265965bf626d3c2b4efd73efcd65ca869df525844fa6f36be5a023225"
+    },
+    {
+      "created_at": "2026-09-20T09:01:34.761745+00:00",
+      "commitment_hash": "fce232e26537bb0aa19dc492ff0d098cd1381680b3211635d50f422067ec5da0"
+    },
+    {
+      "created_at": "2026-09-20T21:01:21.819965+00:00",
+      "commitment_hash": "744f31519d919d3423cfaa94fc045e2c3ee077b5fec32df9cbf010611cdd63a9"
+    },
+    {
+      "created_at": "2026-09-20T21:01:21.819965+00:00",
+      "commitment_hash": "7f0fee3a2c250bef9f445948d3dede03e691765621b7552edbe1394560ff330b"
+    },
+    {
+      "created_at": "2026-09-20T21:02:03.620826+00:00",
+      "commitment_hash": "49788b4b2c7da4fc81d428fbff6d68ea115dbd60a96e4c4f2aa6354de60b52cf"
+    },
+    {
+      "created_at": "2026-09-20T21:02:03.620826+00:00",
+      "commitment_hash": "5cf0bae2a4402e38e8ad5a3b9a89dfc62036476449bf3986ff1f012a8814f33a"
+    },
+    {
+      "created_at": "2026-09-21T09:01:18.808124+00:00",
+      "commitment_hash": "ba1495acadfbc4932e1337e0562d311c790da603831ef9e1ef062b567251efc4"
+    },
+    {
+      "created_at": "2026-09-21T09:01:18.808124+00:00",
+      "commitment_hash": "c1e3a72533e767c0e089eeff524587c0c1232d28683eac85e9e02e35a9a99025"
+    },
+    {
+      "created_at": "2026-09-21T09:02:18.493875+00:00",
+      "commitment_hash": "310452d2a7833e932c9cfe08b0665bed912bbff19bcf2832de99281ec3f4538f"
+    },
+    {
+      "created_at": "2026-09-21T09:02:18.493875+00:00",
+      "commitment_hash": "eb7a2d55e76b301d196e556e20516f8bf3327769702a5a50fce9c06b9bb756c4"
+    },
+    {
+      "created_at": "2026-09-21T21:00:58.539727+00:00",
+      "commitment_hash": "9c1dc33832f972193ee89e2f0f0d43d0ebe696e5d08d33dc71d6f21dc29db8c7"
+    },
+    {
+      "created_at": "2026-09-21T21:00:58.539727+00:00",
+      "commitment_hash": "9fb5363f602f91db725106c2a9111f735419910477e8435421788dc343a6c7fc"
+    },
+    {
+      "created_at": "2026-09-21T21:01:50.787593+00:00",
+      "commitment_hash": "8a2f9a0083338069bb874bbd0a963dddbf3e9cf195db0fa074f9d1b21487bc01"
+    },
+    {
+      "created_at": "2026-09-22T09:01:00.781448+00:00",
+      "commitment_hash": "8898cc1bd90d704a816fa204b8fdc1d36e2ece6273519b7f2eb9f754d3710ab2"
+    },
+    {
+      "created_at": "2026-09-22T09:01:00.781448+00:00",
+      "commitment_hash": "c6ca04fe52719a5c585d71b79c06602b4cd476c6d28ac164e574ceae410dc907"
+    },
+    {
+      "created_at": "2026-09-22T09:02:02.24997+00:00",
+      "commitment_hash": "9522a6df54b5c8e55e29ef8b98d763741eb90c0f765ec68baa056258a46dbb94"
+    },
+    {
+      "created_at": "2026-09-22T21:01:36.139757+00:00",
+      "commitment_hash": "a393078972cd9ead32b53d4e8adac6a52a42b10b147332c097844e34596ba489"
+    },
+    {
+      "created_at": "2026-09-23T09:01:51.290207+00:00",
+      "commitment_hash": "b0cc73b53dfe7fbe6af04b2589b29a7fd2e68c6760a4a0ebc2495bd7fe6b9550"
+    },
+    {
+      "created_at": "2026-09-23T21:00:58.653696+00:00",
+      "commitment_hash": "ebc72f0f28d2f6f265a55e08162c13504da25b7528c181cf8ca0d7a063d98c83"
+    },
+    {
+      "created_at": "2026-09-23T21:02:05.510359+00:00",
+      "commitment_hash": "53b995e807bd4559add08b0c61c4470648e28cdbd9fa33575c68868cbb22d199"
+    },
+    {
+      "created_at": "2026-09-23T21:02:05.510359+00:00",
+      "commitment_hash": "54e6940638c701c180943c4571fb513a77494d741716e60b7148f469d69fbe3d"
+    },
+    {
+      "created_at": "2026-09-24T09:00:58.494132+00:00",
+      "commitment_hash": "7b463d0dadf09c5f62871990040a869f339eb140fe4984648c281f1fcecc9b0e"
+    },
+    {
+      "created_at": "2026-09-24T09:00:58.494132+00:00",
+      "commitment_hash": "d5b67f19e5e659ea21c6cdc92c8e68e45a2f1ed5fe2cc152bc204b4649188705"
+    },
+    {
+      "created_at": "2026-09-24T09:01:52.765291+00:00",
+      "commitment_hash": "74e625adf2a1faa56289f47fcde1ff2b195b4d6a7d5cef3df29990adadcd0679"
+    }
+  ],
+  "canonical_form": "sha256(utf8({\"id\":…,\"brand_id\":…,\"pattern_category\":…,\"probability\":…,\"forecast_window_start\":…,\"forecast_window_end\":…,\"predicted_outcome\":…,\"created_at\":…})) — see https://troposindex.com/forecasts#how-to-check-us"
+}
